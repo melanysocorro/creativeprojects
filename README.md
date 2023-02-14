@@ -27,6 +27,7 @@ For this project, I chose to focus on creating a short poetry novel based upon q
 
 <strong> The Sample Outputs </strong>
 
+https://github.com/melanysocorro/creativeprojects/blob/main/sample_output/selected_sample_outputs.txt
 
 
 <strong>Artist Statement</strong>
@@ -36,5 +37,6 @@ Experiences are monumental. Being able to permeate the barrier between reading a
 I feel this theory applies immaculately to the experience of being queer in society. We experience the stages of grief in many contexts, at nearly every stage of life. With this short novel, I intended to bring a bit more light to the experience of being in a queer relationship while simultaneously playing on the relationship we develop with ourselves throughout our lives. I used AI generation for imagery and multiple cycles of text generation for a curated output that will align with the objectives of this project. As a final easter egg, I curated this novel to mimic an art book one may see in a museum gift shop, because often we seem to be regarded as nothing more than something for people to gawk at or use for politically-correct decoration.
 
 <strong>Run The Project Here</strong> 
+
 https://melanysocorro.github.io/creativeprojects/edible_arrangements.pdf
 

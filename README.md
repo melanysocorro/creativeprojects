@@ -25,7 +25,8 @@ For this project, I chose to focus on creating a short poetry novel based upon q
   - Jane Eyre by Charlotte Brontë 
   - Poems (Complete Series) by Emily Dickinson
 
-<strong> The Outputs </strong>
+<strong> The Sample Outputs </strong>
+
 
 
 <strong>Artist Statement</strong>

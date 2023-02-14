@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&color=4E54CA&vCenter=true&width=429&height=25&lines=WELCOME+TO+MY+CREATIVE+PROJECTS" alt="Typing SVG" /></a>
-#### :black_heart: Edible Arrangements: Text-Generated Poems on the Queer Experience
+#### 💜 Edible Arrangements: Text-Generated Poems on the Queer Experience
 #### Summary 
 For this project, I chose to focus on creating a short poetry novel based upon queer experiences. Specifically, in terms of relationships and in light of the five stages of grief. I organized the poems under the five stages of grief as an analogy for failed relationships and the cyclical nature of heartbreak. I staged the novel to reflect an art book by incorporating AI generated images from MidJourney and Stable Diffusion Online Playground. The samples were derived from both, my personal creative writing, and several books on Project Gutenberg authored by women. The methodology used to generate this output was GPT-2 via Google Colab and Tracery. 
 
@@ -7,7 +7,7 @@ For this project, I chose to focus on creating a short poetry novel based upon q
 1. Collect sources from Project Gutenberg.
 2. Filter through content, pull desired content (quotes, scenes, etc). 
 3. Incorporate final filtered content into text file. 
-4. Run text file through GPT-2 via Google Collab. 
+4. Run text file through GPT-2 via Google Collab.
 5. Extract output. 
 6. Use output for Tracery code. 
 7. Extract Tracery output. 

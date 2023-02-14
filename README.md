@@ -3,7 +3,7 @@
 #### Summary 
 For this project, I chose to focus on creating a short poetry novel based upon queer experiences. Specifically, in terms of relationships and in light of the five stages of grief. I organized the poems under the five stages of grief as an analogy for failed relationships and the cyclical nature of heartbreak. I staged the novel to reflect an art book by incorporating AI generated images from MidJourney and Stable Diffusion Online Playground. The samples were derived from both, my personal creative writing, and several books on Project Gutenberg authored by women. The methodology used to generate this output was GPT-2 via Google Colab and Tracery. 
 
-<strong> Text-Generation Methodology:</strong>
+<strong> Text-Generation Methodology</strong>
 1. Collect sources from Project Gutenberg.
 2. Filter through content, pull desired content (quotes, scenes, etc). 
 3. Incorporate final filtered content into text file. 
@@ -17,7 +17,7 @@ For this project, I chose to focus on creating a short poetry novel based upon q
 
 <i>*Part of final output was derived from the first GPT-2 and Tracery generation.</i>
 
-<strong>The Sources: </strong>
+<strong>The Sources </strong>
   - Proclivity by Melany Socorro 
   - Wuthering Heights by Emily Brontë
   - Pride and Prejudice by Jane Austen
@@ -25,6 +25,16 @@ For this project, I chose to focus on creating a short poetry novel based upon q
   - Jane Eyre by Charlotte Brontë 
   - Poems (Complete Series) by Emily Dickinson
 
-<strong> The Outputs: </strong>
+<strong> The Outputs </strong>
 
-<strong>Project Link:</strong> https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ab455169d-11bd-3974-8362-7a1dcaa57c93&viewer%21megaVerb=group-discover
+
+<strong>Artist Statement</strong>
+
+Experiences are monumental. Being able to permeate the barrier between reading about an experience and being cocooned in the emotional whirlpool of an experience is often my goal with the creative work that I do. I often reflect on Sandra Hardings, Feminist Standpoint Theory when I begin a creative process. One of the three principles of Feminist Standpoint Theory is that communities that are marginalized often hold the most significant knowledge and ability to ask questions that non-marginalized communities may not be cognizant of due to their privileges in society.
+
+I feel this theory applies immaculately to the experience of being queer in society. We experience the stages of grief in many contexts, at nearly every stage of life. With this short novel, I intended to bring a bit more light to the experience of being in a queer relationship while simultaneously playing on the relationship we develop with ourselves throughout our lives. I used AI generation for imagery and multiple cycles of text generation for a curated output that will align with the objectives of this project. As a final easter egg, I curated this novel to mimic an art book one may see in a museum gift shop, because often we seem to be regarded as nothing more than something for people to gawk at or use for politically-correct decoration.
+
+<strong>Run The Project Here
+
+</strong> https://melanysocorro.github.io/creativeprojects/edible_arrangements.pdf
+

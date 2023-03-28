@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&pause=1000&color=4E54CA&vCenter=true&width=429&height=25&lines=WELCOME+TO+MY+CREATIVE+PROJECTS" alt="Typing SVG" /></a>
-#### 💜 Edible Arrangements: Text-Generated Poems on the Queer Experience
+### 💜 Edible Arrangements: Text-Generated Poems on the Queer Experience
 #### Summary 
 For this project, I chose to focus on creating a short poetry novel based upon queer experiences. Specifically, in terms of relationships and in light of the five stages of grief. I organized the poems under the five stages of grief as an analogy for failed relationships and the cyclical nature of heartbreak. I staged the novel to reflect an art book by incorporating AI generated images from MidJourney and Stable Diffusion Online Playground. The samples were derived from both, my personal creative writing, and several books on Project Gutenberg authored by women. The methodology used to generate this output was GPT-2 via Google Colab and Tracery. 
 
@@ -40,7 +40,7 @@ I feel this theory applies immaculately to the experience of being queer in soci
 
 https://melanysocorro.github.io/creativeprojects/edible_arrangements.pdf
 
-#### 🖤 The Cyber Sex: The Influence of AI on Autonomy
+### 💜 The Cyber Sex: The Influence of AI on Autonomy
 #### Artist Statement 
 The Cyber Sex serves as a product of creativity instigated from the unlikeliest of places, Twitter. AI has developed rapidly within the past several years, it’s public accessibility reaching new heights and new unsettling consequences. Four rows of teeth and twelve fingers proved to be immensely disturbing, but the inconceivable revulsion that consumed my psyche upon unearthing the reality of deepfake porn was inexplicably all-consuming in its devastation. While Deepfake AI has been wandering the infernal terrain of the internet for some time now, it has become no less capable of being utilized for malicious purposes. This new appendage of sheer malice is one the driving factors behind this project. The Cyber Sex is an abstract representation of the extinction of authentic autonomy as a result of the growing AI market. It is set to display an environment similar to that of an early 19th century public gallery while incorporating elements of modern technology. Each segment was prompted to incorporate the artistic styles of this era including Impressionism and oil on canvas. 
         

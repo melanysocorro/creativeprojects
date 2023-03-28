@@ -40,7 +40,7 @@ I feel this theory applies immaculately to the experience of being queer in soci
 
 https://melanysocorro.github.io/creativeprojects/edible_arrangements.pdf
 
-#### 💜 The Cyber Sex: The Influence of AI on Autonomy
+#### 🖤 The Cyber Sex: The Influence of AI on Autonomy
 #### Artist Statement 
 The Cyber Sex serves as a product of creativity instigated from the unlikeliest of places, Twitter. AI has developed rapidly within the past several years, it’s public accessibility reaching new heights and new unsettling consequences. Four rows of teeth and twelve fingers proved to be immensely disturbing, but the inconceivable revulsion that consumed my psyche upon unearthing the reality of deepfake porn was inexplicably all-consuming in its devastation. While Deepfake AI has been wandering the infernal terrain of the internet for some time now, it has become no less capable of being utilized for malicious purposes. This new appendage of sheer malice is one the driving factors behind this project. The Cyber Sex is an abstract representation of the extinction of authentic autonomy as a result of the growing AI market. It is set to display an environment similar to that of an early 19th century public gallery while incorporating elements of modern technology. Each segment was prompted to incorporate the artistic styles of this era including Impressionism and oil on canvas. 
         
@@ -48,4 +48,6 @@ Historical reference was incorporated into The Cyber Sex as a form of parallelis
 
 The Cyber Sex was curated with a variety of diverse tools: Stable Diffusion 2.1 Demo, Deforum Stable Diffusion via Google Collab, Motionleap, Adobe Photoshop, Canva, Devianart, ChatGPT, and EpicSound. The static imagery was carefully prompt engineered and executed via Stable Diffusion 2.1 Demo and DreamStudio. Subsequently, select images were transformed into animations with the assistance of Motionleap. The videos utilized were crafted by Deforum Stable Diffusion via Google Colab, all of which were titled graciously by ChatGPT. One objective of the work was to create meaningful motion based on “Picture This: How Pictures Work '' a novel by Molly Bang. Molly Bang describes the significance of shapes in stimulating underlying emotional responses, I utilized their philosophies by applying the same concepts to motion as opposed to shapes. Adobe Photoshop, Canva, Devianart, and Epicsound served to assist with the cohesion of the environment. These tools assisting in the incorporation of audio, detailing, and photo editing. 
 
-<a width="560" height="315" src="https://www.youtube.com/embed/N56XP65Tz7o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></a>
+<strong>Run The Project Here</strong>
+
+(https://youtu.be/N56XP65Tz7o)
